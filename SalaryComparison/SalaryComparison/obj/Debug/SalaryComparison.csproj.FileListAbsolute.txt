@@ -1,0 +1,7 @@
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\SalaryComparison\SalaryComparison\bin\Debug\SalaryComparison.exe.config
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\SalaryComparison\SalaryComparison\bin\Debug\SalaryComparison.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\SalaryComparison\SalaryComparison\bin\Debug\SalaryComparison.pdb
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\SalaryComparison\SalaryComparison\obj\Debug\SalaryComparison.csproj.CoreCompileInputs.cache
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\SalaryComparison\SalaryComparison\obj\Debug\SalaryComparison.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\SalaryComparison\SalaryComparison\obj\Debug\SalaryComparison.pdb
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\SalaryComparison\SalaryComparison\obj\Debug\SalaryComparison.csprojAssemblyReference.cache
