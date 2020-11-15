@@ -1,0 +1,7 @@
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\testWork\testWork\bin\Debug\testWork.exe.config
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\testWork\testWork\bin\Debug\testWork.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\testWork\testWork\bin\Debug\testWork.pdb
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\testWork\testWork\obj\Debug\testWork.csprojAssemblyReference.cache
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\testWork\testWork\obj\Debug\testWork.csproj.CoreCompileInputs.cache
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\testWork\testWork\obj\Debug\testWork.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\testWork\testWork\obj\Debug\testWork.pdb

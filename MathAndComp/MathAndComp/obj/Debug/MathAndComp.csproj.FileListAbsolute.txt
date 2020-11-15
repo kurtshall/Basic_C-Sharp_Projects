@@ -1,0 +1,7 @@
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\MathAndComp\MathAndComp\bin\Debug\MathAndComp.exe.config
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\MathAndComp\MathAndComp\bin\Debug\MathAndComp.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\MathAndComp\MathAndComp\bin\Debug\MathAndComp.pdb
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\MathAndComp\MathAndComp\obj\Debug\MathAndComp.csprojAssemblyReference.cache
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\MathAndComp\MathAndComp\obj\Debug\MathAndComp.csproj.CoreCompileInputs.cache
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\MathAndComp\MathAndComp\obj\Debug\MathAndComp.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\MathAndComp\MathAndComp\obj\Debug\MathAndComp.pdb
