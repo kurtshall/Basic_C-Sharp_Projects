@@ -1,0 +1,6 @@
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\ArrayStringAssignment\ArrayStringAssignment\bin\Debug\ArrayStringAssignment.exe.config
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\ArrayStringAssignment\ArrayStringAssignment\bin\Debug\ArrayStringAssignment.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\ArrayStringAssignment\ArrayStringAssignment\bin\Debug\ArrayStringAssignment.pdb
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\ArrayStringAssignment\ArrayStringAssignment\obj\Debug\ArrayStringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\ArrayStringAssignment\ArrayStringAssignment\obj\Debug\ArrayStringAssignment.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\ArrayStringAssignment\ArrayStringAssignment\obj\Debug\ArrayStringAssignment.pdb
