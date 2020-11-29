@@ -1,0 +1,7 @@
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\6PartAssignment\6PartAssignment\bin\Debug\6PartAssignment.exe.config
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\6PartAssignment\6PartAssignment\bin\Debug\6PartAssignment.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\6PartAssignment\6PartAssignment\bin\Debug\6PartAssignment.pdb
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\6PartAssignment\6PartAssignment\obj\Debug\6PartAssignment.csprojAssemblyReference.cache
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\6PartAssignment\6PartAssignment\obj\Debug\6PartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\6PartAssignment\6PartAssignment\obj\Debug\6PartAssignment.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\6PartAssignment\6PartAssignment\obj\Debug\6PartAssignment.pdb

@@ -1,0 +1,7 @@
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\IterationTest\IterationTest\bin\Debug\IterationTest.exe.config
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\IterationTest\IterationTest\bin\Debug\IterationTest.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\IterationTest\IterationTest\bin\Debug\IterationTest.pdb
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\IterationTest\IterationTest\obj\Debug\IterationTest.csprojAssemblyReference.cache
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\IterationTest\IterationTest\obj\Debug\IterationTest.csproj.CoreCompileInputs.cache
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\IterationTest\IterationTest\obj\Debug\IterationTest.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\IterationTest\IterationTest\obj\Debug\IterationTest.pdb
