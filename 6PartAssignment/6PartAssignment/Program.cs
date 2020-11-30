@@ -130,11 +130,11 @@ class Program
         {
             if (pass == namecheck3)
             {
-                Console.WriteLine("That name was in the system!");
+                Console.WriteLine("The name " + namecheck3+ " was in the system!");
                 //setting an if statment to see if the name was already used
                 if (sameName2.Count > 0)
                 {
-                    Console.WriteLine("That name was already in the system!");
+                    Console.WriteLine("The name " + namecheck3 + " was already in the system!");
                 }
                 //adding to the value after checking if the name was already used
                 sameName2.Add(1);
@@ -147,7 +147,7 @@ class Program
 
         if (sameName2.Count == 0)
         {
-            Console.WriteLine("That name was not in the system!");
+            Console.WriteLine("The name " + namecheck3 + " was not in the system!");
         }
         Console.ReadLine();
     }
