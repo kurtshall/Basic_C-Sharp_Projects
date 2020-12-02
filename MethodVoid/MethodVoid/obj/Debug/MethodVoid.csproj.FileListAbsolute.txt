@@ -1,0 +1,7 @@
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\MethodVoid\MethodVoid\bin\Debug\MethodVoid.exe.config
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\MethodVoid\MethodVoid\bin\Debug\MethodVoid.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\MethodVoid\MethodVoid\bin\Debug\MethodVoid.pdb
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\MethodVoid\MethodVoid\obj\Debug\MethodVoid.csprojAssemblyReference.cache
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\MethodVoid\MethodVoid\obj\Debug\MethodVoid.csproj.CoreCompileInputs.cache
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\MethodVoid\MethodVoid\obj\Debug\MethodVoid.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\MethodVoid\MethodVoid\obj\Debug\MethodVoid.pdb
