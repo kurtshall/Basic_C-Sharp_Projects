@@ -1,0 +1,7 @@
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\Method2Numbers\Method2Numbers\bin\Debug\Method2Numbers.exe.config
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\Method2Numbers\Method2Numbers\bin\Debug\Method2Numbers.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\Method2Numbers\Method2Numbers\bin\Debug\Method2Numbers.pdb
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\Method2Numbers\Method2Numbers\obj\Debug\Method2Numbers.csprojAssemblyReference.cache
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\Method2Numbers\Method2Numbers\obj\Debug\Method2Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\Method2Numbers\Method2Numbers\obj\Debug\Method2Numbers.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\Method2Numbers\Method2Numbers\obj\Debug\Method2Numbers.pdb
