@@ -1,0 +1,7 @@
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\InheritAssignment\InheritAssignment\bin\Debug\InheritAssignment.exe.config
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\InheritAssignment\InheritAssignment\bin\Debug\InheritAssignment.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\InheritAssignment\InheritAssignment\bin\Debug\InheritAssignment.pdb
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\InheritAssignment\InheritAssignment\obj\Debug\InheritAssignment.csprojAssemblyReference.cache
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\InheritAssignment\InheritAssignment\obj\Debug\InheritAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\InheritAssignment\InheritAssignment\obj\Debug\InheritAssignment.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\InheritAssignment\InheritAssignment\obj\Debug\InheritAssignment.pdb
