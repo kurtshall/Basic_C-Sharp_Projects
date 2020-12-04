@@ -11,8 +11,11 @@ namespace VoidOverloadMethod
         static void Main(string[] args)
         {
             
+            mainClass mainClass = new mainClass();
             Console.WriteLine("Enter a number to be divided by 2.");
             int userNum = Convert.ToInt32(Console.ReadLine());
+
+            
 
             mainClass.mainDiv(userNum);
 
@@ -20,6 +23,7 @@ namespace VoidOverloadMethod
             mainClass.mainDiv(userNum, out a);
 
             Console.WriteLine(userNum + " / 3 = " + a);
+            Game.mainDiv(userNum);
 
             Console.ReadLine();
 
