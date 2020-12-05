@@ -14,8 +14,9 @@ namespace AbstractAssignment
             Console.WriteLine("This is going over abstract classes.");
 
             Employee employee = new Employee() { firstName = "Sample", LastName = "Student" };
-            employee.SayName();
-
+            employee.Quit();
+            //employee.SayName();
+            
 
 
             Console.ReadLine();
