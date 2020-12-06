@@ -27,5 +27,23 @@ namespace AbstractAssignment
             Console.WriteLine(firstName + " " + LastName + " just quit.");
             
         }
+
+
+        public static bool operator ==(Employee a, Employee b)
+        {
+            
+            return a.ID.Equals(b.ID);
+        }
+
+        public static bool operator !=(Employee a, Employee b)
+        {
+
+            return a.ID.Equals(b.ID);
+        }
+
+        public static bool Equals(Employee a, Employee b)
+        {
+            return a.ID.Equals(b.ID);
+        }
     }
 }

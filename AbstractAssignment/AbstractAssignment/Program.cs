@@ -17,6 +17,18 @@ namespace AbstractAssignment
             employee.Quit();
             //employee.SayName();
             
+            Employee employee1 = new Employee() { ID = 5 };
+            Employee employee2 = new Employee() { ID = 5 };
+
+            Employee employee3 = new Employee() { ID = 6 };
+            Employee employee4 = new Employee() { ID = 7 };
+
+            bool b1 = employee1 == employee2;
+            bool b2 = employee3 == employee4;
+
+
+            Console.WriteLine(b1);
+            Console.WriteLine(b2);
 
 
             Console.ReadLine();
