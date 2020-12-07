@@ -1,0 +1,7 @@
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\EnumAssignment\EnumAssignment\bin\Debug\EnumAssignment.exe.config
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\EnumAssignment\EnumAssignment\bin\Debug\EnumAssignment.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\EnumAssignment\EnumAssignment\bin\Debug\EnumAssignment.pdb
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\EnumAssignment\EnumAssignment\obj\Debug\EnumAssignment.csprojAssemblyReference.cache
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\EnumAssignment\EnumAssignment\obj\Debug\EnumAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\EnumAssignment\EnumAssignment\obj\Debug\EnumAssignment.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\EnumAssignment\EnumAssignment\obj\Debug\EnumAssignment.pdb

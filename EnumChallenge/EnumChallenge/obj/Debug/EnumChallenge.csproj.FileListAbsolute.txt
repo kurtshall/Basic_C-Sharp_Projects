@@ -1,0 +1,7 @@
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\EnumChallenge\EnumChallenge\obj\Debug\EnumChallenge.csprojAssemblyReference.cache
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\EnumChallenge\EnumChallenge\obj\Debug\EnumChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\EnumChallenge\EnumChallenge\bin\Debug\EnumChallenge.exe.config
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\EnumChallenge\EnumChallenge\bin\Debug\EnumChallenge.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\EnumChallenge\EnumChallenge\bin\Debug\EnumChallenge.pdb
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\EnumChallenge\EnumChallenge\obj\Debug\EnumChallenge.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\EnumChallenge\EnumChallenge\obj\Debug\EnumChallenge.pdb

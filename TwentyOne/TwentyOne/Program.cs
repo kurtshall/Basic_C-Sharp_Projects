@@ -10,7 +10,6 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            
             Deck deck = new Deck();
             deck.Shuffle();
             
@@ -22,6 +21,7 @@ namespace TwentyOne
             Console.ReadLine();
         }
 
+        
         
 
         //public static Deck Shuffle(Deck deck, int times)
