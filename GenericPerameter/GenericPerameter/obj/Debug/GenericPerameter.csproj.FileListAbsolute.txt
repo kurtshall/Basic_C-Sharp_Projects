@@ -1,0 +1,7 @@
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\GenericPerameter\GenericPerameter\bin\Debug\GenericPerameter.exe.config
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\GenericPerameter\GenericPerameter\bin\Debug\GenericPerameter.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\GenericPerameter\GenericPerameter\bin\Debug\GenericPerameter.pdb
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\GenericPerameter\GenericPerameter\obj\Debug\GenericPerameter.csprojAssemblyReference.cache
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\GenericPerameter\GenericPerameter\obj\Debug\GenericPerameter.csproj.CoreCompileInputs.cache
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\GenericPerameter\GenericPerameter\obj\Debug\GenericPerameter.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\GenericPerameter\GenericPerameter\obj\Debug\GenericPerameter.pdb
