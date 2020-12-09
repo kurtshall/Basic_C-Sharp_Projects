@@ -14,9 +14,9 @@ namespace TextLogAssignment
             Console.WriteLine("Enter a number to save to a log file: ");
             string userNum = Console.ReadLine();
 
-            File.WriteAllText(@"C:\Users\Kurt\Desktop\Logs", userNum);
+            File.WriteAllText(@"C:\Users\Kurt\Desktop\Logs\log.txt", userNum);
 
-            string text = File.ReadAllText(@"C:\Users\Kurt\Desktop\Logs");
+            string text = File.ReadAllText(@"C:\Users\Kurt\Desktop\Logs\log.txt");
             Console.WriteLine(text);
 
             Console.ReadLine();
