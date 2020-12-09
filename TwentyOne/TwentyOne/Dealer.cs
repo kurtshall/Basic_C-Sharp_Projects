@@ -17,6 +17,15 @@ namespace TwentyOne
             Hand.Add(Deck.Cards.First());
             Console.WriteLine(Deck.Cards.First().ToString() + "\n");
             Deck.Cards.RemoveAt(0);
+
+            //Hand.Add(Deck.Cards.First());
+            //string card = string.Format(Deck.Cards.First().ToString() + "\n");
+            //Console.WriteLine(card);
+            //using (StreamWriter file = new StreamWriter(@"C:\Users\Kurt\Desktop\Logs", true))
+            //{
+            //    file.WriteLine(card);
+            //}
+            //Deck.Cards.RemoveAt(0);
         }
     }
 }

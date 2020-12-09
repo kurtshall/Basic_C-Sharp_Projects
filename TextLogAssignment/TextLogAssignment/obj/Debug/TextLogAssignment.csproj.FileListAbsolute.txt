@@ -1,0 +1,7 @@
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\TextLogAssignment\TextLogAssignment\bin\Debug\TextLogAssignment.exe.config
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\TextLogAssignment\TextLogAssignment\bin\Debug\TextLogAssignment.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\TextLogAssignment\TextLogAssignment\bin\Debug\TextLogAssignment.pdb
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\TextLogAssignment\TextLogAssignment\obj\Debug\TextLogAssignment.csprojAssemblyReference.cache
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\TextLogAssignment\TextLogAssignment\obj\Debug\TextLogAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\TextLogAssignment\TextLogAssignment\obj\Debug\TextLogAssignment.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\TextLogAssignment\TextLogAssignment\obj\Debug\TextLogAssignment.pdb
