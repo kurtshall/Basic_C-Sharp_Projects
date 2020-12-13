@@ -21,14 +21,16 @@ namespace ConstAndVarAssignment
             {
 
             }
-            public sampleChain(int Age)
+            public sampleChain(int age) : this()
             {
-
+                this.Age = age;
             }
-            public sampleChain(int Age, string name)
+            public sampleChain(int age, string name) : this(age)
             {
-
+                this.Name = name;
             }
+            public int Age { get; }
+            public string Name { get; }
         }
 
         
