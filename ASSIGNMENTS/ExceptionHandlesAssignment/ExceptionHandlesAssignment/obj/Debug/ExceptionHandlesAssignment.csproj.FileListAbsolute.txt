@@ -1,0 +1,7 @@
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\ASSIGNMENTS\ExceptionHandlesAssignment\ExceptionHandlesAssignment\bin\Debug\ExceptionHandlesAssignment.exe.config
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\ASSIGNMENTS\ExceptionHandlesAssignment\ExceptionHandlesAssignment\bin\Debug\ExceptionHandlesAssignment.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\ASSIGNMENTS\ExceptionHandlesAssignment\ExceptionHandlesAssignment\bin\Debug\ExceptionHandlesAssignment.pdb
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\ASSIGNMENTS\ExceptionHandlesAssignment\ExceptionHandlesAssignment\obj\Debug\ExceptionHandlesAssignment.csprojAssemblyReference.cache
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\ASSIGNMENTS\ExceptionHandlesAssignment\ExceptionHandlesAssignment\obj\Debug\ExceptionHandlesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\ASSIGNMENTS\ExceptionHandlesAssignment\ExceptionHandlesAssignment\obj\Debug\ExceptionHandlesAssignment.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\ASSIGNMENTS\ExceptionHandlesAssignment\ExceptionHandlesAssignment\obj\Debug\ExceptionHandlesAssignment.pdb
