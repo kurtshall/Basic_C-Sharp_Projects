@@ -46,16 +46,74 @@ namespace CarInsurance.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Insuree insuree)
+        public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Insuree userTotal)
         {
             if (ModelState.IsValid)
             {
-                db.Insurees.Add(insuree);
+
+
+                if (string.IsNullOrEmpty(userTotal.FirstName) || string.IsNullOrEmpty(userTotal.LastName) || string.IsNullOrEmpty(userTotal.EmailAddress) ||
+                 string.IsNullOrEmpty(userTotal.CarMake) || string.IsNullOrEmpty(userTotal.CarModel) || string.IsNullOrEmpty(Convert.ToString(userTotal.DUI)) || 
+                 string.IsNullOrEmpty(Convert.ToString(userTotal.SpeedingTickets)) || string.IsNullOrEmpty(Convert.ToString(userTotal.CoverageType)))
+                {
+                    return View("~/Views/Shared/Error.cshtml");
+                }
+                else
+                {
+                    using (InsuranceEntities db = new InsuranceEntities())
+                    {
+                        
+
+                        double quote = 50;
+                        int age = (DateTime.Now.Year - userTotal.DateOfBirth.Year);
+                        if (age <= 18)
+                        {
+                            quote += 100;
+                        }
+                        if (age > 18 && age < 26)
+                        {
+                            quote += 50;
+                        }
+                        if (age > 25)
+                        {
+                            quote += 25;
+                        }
+                        if (userTotal.CarYear < 2000)
+                        {
+                            quote += 25;
+                        }
+                        if (userTotal.CarYear > 2015)
+                        {
+                            quote += 25;
+                        }
+                        if (userTotal.CarMake.ToLower() == "porsche")
+                        {
+                            quote += 25;
+                            if (userTotal.CarMake.ToLower() == "911 carrera")
+                            {
+                                quote += 25;
+                            }
+                        }
+                        quote += (userTotal.SpeedingTickets * 10);
+                        if (userTotal.DUI)
+                        {
+                            quote += (quote * .25);
+                        }
+                        if (userTotal.CoverageType)
+                        {
+                            quote += (quote * .5);
+                        }
+                        userTotal.Quote = (decimal)quote;
+                        
+                    }
+                }
+
+                db.Insurees.Add(userTotal);
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
             
-            return View(insuree);
+            return View(userTotal);
         }
 
         // GET: Insuree/Edit/5
