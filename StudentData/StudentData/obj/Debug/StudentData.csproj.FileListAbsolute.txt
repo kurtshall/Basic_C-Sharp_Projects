@@ -1,0 +1,12 @@
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\StudentData\StudentData\bin\Debug\StudentData.exe.config
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\StudentData\StudentData\bin\Debug\StudentData.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\StudentData\StudentData\bin\Debug\StudentData.pdb
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\StudentData\StudentData\bin\Debug\EntityFramework.dll
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\StudentData\StudentData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\StudentData\StudentData\bin\Debug\EntityFramework.xml
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\StudentData\StudentData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\StudentData\StudentData\obj\Debug\StudentData.csprojAssemblyReference.cache
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\StudentData\StudentData\obj\Debug\StudentData.csproj.CoreCompileInputs.cache
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\StudentData\StudentData\obj\Debug\StudentData.csproj.CopyComplete
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\StudentData\StudentData\obj\Debug\StudentData.exe
+C:\Users\Kurt\Documents\GitHub\Basic_C-Sharp_Projects\StudentData\StudentData\obj\Debug\StudentData.pdb
